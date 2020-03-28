@@ -3,6 +3,7 @@
 ## KRNIC IP List (source)
 
 https://한국인터넷정보센터.한국/jsp/statboard/IPAS/inter/sec/currentV4Addr.jsp (krnic-ip.txt)
+
 https://한국인터넷정보센터.한국/jsp/statboard/IPAS/ovrse/natal/IPaddrBandCurrent.jsp?nationCode1=KR (korea-ip.txt)
 
 ## Files
